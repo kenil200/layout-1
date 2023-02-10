@@ -1,0 +1,27 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.manu{
+	text-align: center;
+}
+.aitem1_image{
+	width:100px;
+	height:50px;
+	padding:px;
+}
+.item_1_image{
+float: left;
+  width: 50%;
+  padding: 10px;
+  height: 500px;
+	}
+.item_paragraph:after {
+  content: "";
+  display: table;
+  clear: both;
+  margin: 10px;
+  text-align:center;
+}
+ 
+
