@@ -2,26 +2,101 @@
 	padding: 0;
 	margin: 0;
 }
-.manu{
+
+.img{
+	margin: 10px 0px 0px 20px;
+	padding:10px 0px s0px 0px;
+	align-items: center;
+	text-align:left;
+	}
+
+header{
+	text-align:right;
+	margin: 30px 0px;
+} 
+#nav{
+	display: flex;
+	text-align:center;
+}
+nav ul{
+	list-style: none;
+
+}
+nav ul li{
+	text-align: center;
+	display: inline-block;
+	font-size: 18px;
+	padding: 20px 15px;
+}
+.search_icon{
+	text-align: right;
+}
+.flex{
+	display: flex;
+	align-items: center;
+	padding:90px;
+	margin: 3px;
+
+}	
+#item_1_image{
+	border-radius: 25px;		
+}
+.item_0_paragraph{
 	text-align: center;
 }
-.aitem1_image{
-	width:100px;
-	height:50px;
-	padding:px;
+.paddimg_for_line{
+padding:25px;
+margin: 1px;
+text-align: justify;
+align-content: center;
 }
-.item_1_image{
-float: left;
-  width: 50%;
-  padding: 10px;
-  height: 500px;
-	}
-.item_paragraph:after {
-  content: "";
-  display: table;
-  clear: both;
-  margin: 10px;
-  text-align:center;
-}
- 
+.item_1_paragraph{
 
+text-align: center;
+padding: 25px;
+}
+
+.name_2{
+	text-align: center;
+}
+
+
+.img_1{
+	display: flex;
+	text-align: center;
+	padding: 100px;
+	}
+.img_2{
+	display: flex;
+	text-align: center;
+	padding: 20px;
+   
+	}
+	.blogs{
+		text-align: center;
+
+	}
+	
+	.blogs_2{
+  display: flex;
+  text-align: center;
+	}
+.contac_image
+{
+	display: flex;
+	padding: 90px;
+	float: left;
+}
+.information{
+	display: flex;
+	display: block;
+	width: 20px;
+	
+}
+#2.2photon{
+	height: 50px;
+	width: 40px;
+	float: left;
+	text-align: center;
+
+}
